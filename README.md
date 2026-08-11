@@ -12,7 +12,7 @@ A radio observation of these attackers and how and why they are attacking and fr
 
     [TODO: add AM mod. code,
            add PSK mod Code.
-           and one other]
+           and one or two others]
            
 this code with light help from chatGPT for the skeleton model, allows for measuring attack surface area in city, and where and when they occur and how attacks and data is placed within their network, where its reuptaked from and sent too over time and space. 
 
