@@ -10,4 +10,10 @@ A radio observation of these attackers and how and why they are attacking and fr
 
 
 
-    [TODO: add AM mod. code, PSK mod Code, and one other] code allows measuring attack surface area in city, and where and when they occur and how attacks and data is placed within their network, where its reuptaked from and sent too over time and space. 
+    [TODO: add AM mod. code,
+           add PSK mod Code.
+           and one other]
+           
+this code with light help from chatGPT for the skeleton model, allows for measuring attack surface area in city, and where and when they occur and how attacks and data is placed within their network, where its reuptaked from and sent too over time and space. 
+
+shows bandwidth, or even scan rate of SDR or other devices given talk from here to here as he did for us recursive or whatever it was there to see how fast each next fq was accessed if its SDR, or if its a bot. 
