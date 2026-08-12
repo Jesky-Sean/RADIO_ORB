@@ -8,18 +8,17 @@ A radio observation of these attackers and how and why they are attacking and fr
 ------------
 <img width="1568" height="720" alt="perfection" src="https://github.com/user-attachments/assets/20e437e2-df39-4c4a-8df6-852455538c45" />
 
-    this code allows hearing over their network at their home base. 
- ---------------
+    this code allows hearing over their network at their home base:
+   githubDir: RadioCode/Perfection
+ -
  
 <img width="3808" height="1608" alt="allseeing" src="https://github.com/user-attachments/assets/74ca23e5-04d2-4c0f-9e5d-01d6cd83ba9b" />
 
     this code allows seeing all IO of attackers network:
 
+   githubDir: RadioCode/Perfection
+   -
 
-    
-[TODO: add AM mod. code,
-           add PSK mod Code.
-           and one or two others]
            
 this code with light help from chatGPT for the skeleton model, allows for measuring attack surface area in city, and where and when they occur and how attacks and data is placed within their network, where its reuptaked from and sent too over time and space.
 
