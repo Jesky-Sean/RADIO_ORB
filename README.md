@@ -2,12 +2,22 @@
     \\\\\\NOFAM/CONFIDENTIAL\\\\\\\
 A radio observation of these attackers and how and why they are attacking and from where. 
 
-    [TODO, Add] SensorsToRadioReport: Is my written report on the situation and the main functionalitys of such an attack, and the means, and modes of attack surface. 
+    [TODO, finish] SensorsToRadioReport: Is my written report on the situation and the main functionalitys of such an attack, and the means, and modes of attack  surface, for example the weaponized antenna they have wounded up, that correlates with a 125kHz coil antenna reciver. 
 
+    
+------------
 <img width="1568" height="720" alt="perfection" src="https://github.com/user-attachments/assets/20e437e2-df39-4c4a-8df6-852455538c45" />
-    this code allows hearing over their network at their home base. 
 
-    [TODO: add AM mod. code,
+    this code allows hearing over their network at their home base. 
+ ---------------
+ 
+<img width="3808" height="1608" alt="allseeing" src="https://github.com/user-attachments/assets/74ca23e5-04d2-4c0f-9e5d-01d6cd83ba9b" />
+
+    this code allows seeing all IO of attackers network:
+
+
+    
+[TODO: add AM mod. code,
            add PSK mod Code.
            and one or two others]
            
