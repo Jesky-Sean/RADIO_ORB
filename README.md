@@ -16,7 +16,7 @@ A radio observation of these attackers and how and why they are attacking and fr
 
     this code allows seeing all IO of attackers network:
 
-   githubDir: RadioCode/Perfection
+   github dir: RadioCode/AllSeeing
    -
 
            
