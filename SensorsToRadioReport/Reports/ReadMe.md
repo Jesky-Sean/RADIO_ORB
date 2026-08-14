@@ -14,7 +14,7 @@ All money of mine or gaind from.these attackers trying yo pay off my family, cur
 
 
 
-
+every measurement is exactly 1.68km from attack zone, and frk. wind measurements with help from ChatGPT
 
 
 
