@@ -56,7 +56,7 @@ you'll find the server out in the most quiet locations where the server is, you'
 
 
 
-
+police will not rescue tortured victims anymore and will not provide protection for anyone if the other victims are younger only they will be protected.  they aided a hate groip by leaving me to die inside and out and not giving medical aid with proof of torture. 
 
 
 
