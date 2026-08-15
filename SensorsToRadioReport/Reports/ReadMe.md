@@ -22,6 +22,9 @@ every measurement is exactly 1.68km from attack zone, and frk. wind measurements
 
 
 
+The guy has to keep switching at 20k nodes, because its an police/agency range due to the fact no one kept talking but one tiny line.  Because hes storing their data at that frequency and DB and just has to talk like this or that to access that prediction data. 
 
+
+A crime involving torture.
 
 
