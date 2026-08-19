@@ -1,5 +1,9 @@
 He's hiding his signature from scanners more from the east than westx I get a different signiture from the east than the restroom.
 
+conical in shape like the attackers said:
+<img width="580" height="1024" alt="Figure 2026-08-19 04_48_26" src="https://github.com/user-attachments/assets/a46129ed-e0e3-4cb4-b83d-2abeda6ef9cd" />
+
+
 The signature is smaller from one direction than the others. It looks like a wall spaced out so he can walk behind and go up and down from behind, above and below the vent.
 
 All money of mine or gaind from.these attackers trying yo pay off my family, currently or if and upon my death if my parents are taken care of properly and members of a caring family are seen to be well, as M, must go to "whiskers without cheeks"
